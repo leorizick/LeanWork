@@ -1,0 +1,20 @@
+<div class="header">
+    <img ngSrc="assets/github.jpg" width="40" height="40" />
+    <h1>Usuarios Github</h1>
+</div>
+<ul>
+    <ng-container *ngFor="let user of userList">
+        <li>
+            <div class="imgUser">
+                <img ngSrc="{{user.avatar_url}}" width="40" height="40" />
+            </div>
+            <div class="info">
+                <label> Id: {{user.id}}</label>
+                <label> Login: {{user.login}}</label>
+            </div>
+            <div class="button">
+                <button routerLink="/user/{{user.login}}"> Detalhes </button>
+            </div>
+        </li>
+    </ng-container>
+</ul>

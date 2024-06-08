@@ -1,0 +1,44 @@
+.body {
+    height: 80vh;
+    overflow: auto;
+}
+
+img {
+    border-radius: 50%;
+    border: 1px;
+    margin: 10px;
+}
+
+table {
+    color: white;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #2d3b4f;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    color: white;
+
+}
+
+a {
+    color: white;
+}
+
+button{
+    margin: 15px;
+    background-color: #0D113E;
+    color: white;
+    opacity: 80%;
+}
