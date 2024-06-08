@@ -1,0 +1,15 @@
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.exe
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.deps.json
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.runtimeconfig.json
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.dll
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.pdb
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.AssemblyReference.cache
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfo.cs
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.dll
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\refint\ExercicioUm.dll
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.pdb
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.genruntimeconfig.cache
+C:\workspace\Back\C#\LeanWorkTest\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ref\ExercicioUm.dll
