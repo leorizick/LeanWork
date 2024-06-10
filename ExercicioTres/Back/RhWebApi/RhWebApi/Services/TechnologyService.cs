@@ -25,9 +25,15 @@ namespace RhWebApi.Services
             return _mapper.Map<TechnologyDto>(_repository.GetById(id));
         }
 
-        public void Add(Technology entity)
+        public TechnologyDto Add(TechnologyDto dto)
         {
-            _repository.Add(entity);
+            Technology technology = new Technology()
+            {
+                Name = dto.Name
+            };
+            _repository.Add(technology);
+            dto.Id = technology.Id;
+            return dto;
         }
 
         public void Update(Technology entity)
@@ -39,5 +45,6 @@ namespace RhWebApi.Services
         {
             _repository.Delete(id);
         }
+
     }
 }

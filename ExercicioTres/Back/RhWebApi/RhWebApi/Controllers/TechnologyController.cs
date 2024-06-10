@@ -42,8 +42,8 @@ namespace RhWebApi.Controllers
 
         [HttpPost]
         [SwaggerOperation(Summary = "Create a new Technology", Description = "Create a new Technology.")]
-        [SwaggerResponse(201, "Returns the newly created Technology", typeof(Technology))]
-        public ActionResult<Technology> Create(Technology Technology)
+        [SwaggerResponse(201, "Returns the newly created Technology", typeof(TechnologyDto))]
+        public ActionResult<TechnologyDto> Create(TechnologyDto Technology)
         {
             _service.Add(Technology);
             return CreatedAtAction(nameof(GetById), new { id = Technology.Id }, Technology);

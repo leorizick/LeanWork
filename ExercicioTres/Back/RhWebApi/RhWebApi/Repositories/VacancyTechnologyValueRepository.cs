@@ -17,6 +17,11 @@ namespace RhWebApi.Repositories
             return _context.vacancyTechnologyValues.ToList();
         }
 
+        public IEnumerable<VacancyTechnologyValue> GetAllByVacancyId(int Id)
+        {
+            return _context.vacancyTechnologyValues.Where(v => v.Id == Id).ToList();
+        }
+
         public VacancyTechnologyValue GetById(int id)
         {
             return _context.vacancyTechnologyValues.Find(id);
@@ -43,5 +48,7 @@ namespace RhWebApi.Repositories
                 _context.SaveChanges();
             }
         }
+
+
     }
 }

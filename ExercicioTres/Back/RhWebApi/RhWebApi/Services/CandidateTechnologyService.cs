@@ -20,6 +20,11 @@ namespace RhWebApi.Services
             return _mapper.Map<IEnumerable<CandidateTechnologyDto>>(_repository.GetAll());
         }
 
+        public IEnumerable<CandidateTechnology> GetAllByCandidateId(int id)
+        {
+            return _repository.GetAllByCandidateId(id);
+        }
+
         public CandidateTechnologyDto GetById(int id)
         {
             return _mapper.Map<CandidateTechnologyDto>(_repository.GetById(id));
@@ -39,5 +44,6 @@ namespace RhWebApi.Services
         {
             _repository.Delete(id);
         }
+
     }
 }

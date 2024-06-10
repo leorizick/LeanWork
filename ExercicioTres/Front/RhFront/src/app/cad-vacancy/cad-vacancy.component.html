@@ -1,0 +1,16 @@
+<h2>Cadastro de Vagas</h2>
+<hr />
+<section id="form">
+    <form (ngSubmit)="onSubmit()" [formGroup]="this.vacancyFormGroup">
+        <div id="formId">
+            <div class="form-group">
+                <label>Nome</label>
+                <textarea formControlName="name" name="Nome" rows="1" class="form-control"></textarea>
+                <label>Descrição</label>
+                <textarea formControlName="description" name="description" rows="1" class="form-control"></textarea>
+            </div>
+            <button [disabled]="this.vacancyFormGroup.invalid" type="submit" class="btn btn-primary mr-2">Salvar</button>
+            <button routerLink="" type="button" class="btn btn-secondary">Voltar</button>
+        </div>
+    </form>
+</section>

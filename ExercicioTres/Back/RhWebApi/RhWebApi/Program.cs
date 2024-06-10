@@ -19,13 +19,18 @@ static void Configure(string[] args)
     {
         c.SwaggerDoc("v1", new OpenApiInfo { Title = "RHWebApi", Version = "v1" });
     });
-
     builder.Services.AddAutoMapper(cfg =>
     {
         cfg.AllowNullCollections = true;
         cfg.AllowNullDestinationValues = true;
     }, typeof(MappingProfile));
-
+    builder.Services.AddCors(options =>
+    {
+        options.AddPolicy("AllowSpecificOrigin",
+            builder => builder.WithOrigins("http://localhost:4200")
+                              .AllowAnyHeader()
+                              .AllowAnyMethod());
+    });
 
     InjectionRepository(builder);
 
@@ -43,8 +48,16 @@ static void Configure(string[] args)
     }
 
     app.UseHttpsRedirection();
+    app.UseCors("AllowSpecificOrigin");
     app.UseAuthorization();
     app.MapControllers();
+
+    using (var scope = app.Services.CreateScope())
+    {
+        var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+        dbContext.Database.EnsureCreated();
+    }
+
     app.Run();
 }
 static void InjectionRepository(WebApplicationBuilder builder)
@@ -63,6 +76,7 @@ static void InjectionServices(WebApplicationBuilder builder)
     builder.Services.AddScoped<ITechnologyService, TechnologyService>();
     builder.Services.AddScoped<IVacancyService, VacancyService>();
     builder.Services.AddScoped<IVacancyTechnologyValueService, VacancyTechnologyValueService>();
+    builder.Services.AddScoped<IFinalReport, FinalReport>();
 }
 
 

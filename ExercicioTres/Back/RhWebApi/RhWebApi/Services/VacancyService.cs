@@ -7,12 +7,13 @@ namespace RhWebApi.Services
     public class VacancyService : IVacancyService
     {
         private readonly IVacancyRepository _repository;
+        private readonly IVacancyTechnologyValueService _vacancyTechnologyValueService;
         private readonly IMapper _mapper;
-
-        public VacancyService(IVacancyRepository repository, IMapper mapper)
+        public VacancyService(IVacancyRepository repository, IMapper mapper, IVacancyTechnologyValueService vacancyTechnologyValueService)
         {
             _repository = repository;
             _mapper = mapper;
+            _vacancyTechnologyValueService = vacancyTechnologyValueService;
         }
 
         public IEnumerable<VacancyDto> GetAll()
@@ -24,9 +25,19 @@ namespace RhWebApi.Services
         {
             return _mapper.Map<VacancyDto>(_repository.GetById(id));
         }
-        public void Add(Vacancy entity)
+        public VacancyDto Add(VacancyDto dto)
         {
-            _repository.Add(entity);
+            Vacancy vacancy = new Vacancy() { Description = dto.Description, Name = dto.Name };
+
+            if (dto.Id != null)
+            {
+                vacancy = _repository.GetById(dto.Id.Value);
+            }
+
+            _repository.Add(vacancy);
+            dto.Id = vacancy.Id;
+            dto.Creation = vacancy.Creation;
+            return dto;
         }
 
         public void Update(Vacancy entity)

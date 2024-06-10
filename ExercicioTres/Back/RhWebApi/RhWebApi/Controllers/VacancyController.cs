@@ -42,8 +42,8 @@ namespace RhWebApi.Controllers
 
         [HttpPost]
         [SwaggerOperation(Summary = "Create a new vacancy", Description = "Create a new vacancy.")]
-        [SwaggerResponse(201, "Returns the newly created vacancy", typeof(Vacancy))]
-        public ActionResult<Vacancy> Create(Vacancy vacancy)
+        [SwaggerResponse(201, "Returns the newly created vacancy", typeof(VacancyDto))]
+        public ActionResult<VacancyDto> Create(VacancyDto vacancy)
         {
             _service.Add(vacancy);
             return CreatedAtAction(nameof(GetById), new { id = vacancy.Id }, vacancy);

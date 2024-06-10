@@ -1,0 +1,25 @@
+<h2>Cadastro de Candidato</h2>
+<hr />
+<section id="form">
+    <form (ngSubmit)="onSubmit()" [formGroup]="this.candidateFormGroup">
+        <div id="formId">
+            <div class="form-group">
+                <label>Nome</label>
+                <textarea formControlName="name" name="Nome" rows="1" class="form-control"></textarea>
+
+                <label for="tecnologias" class="control-label">Tecnologias</label>
+                <select formControlName="technology" multiple class="form-control" id="tecnologias" name="tecnologias">
+                    <option *ngFor="let tech of technologies" [ngValue]="tech">{{tech.name}}</option>
+                </select>
+
+                <label for="Vagas" class="control-label">Tecnologias</label>
+                <select formControlName="vacancy" multiple class="form-control" id="Vagas" name="vagas">
+                    <option *ngFor="let vacancy of vacancies" [ngValue]="vacancy">{{vacancy.name}}:
+                        {{vacancy.description}}</option>
+                </select>
+            </div>
+            <button [disabled]="this.candidateFormGroup.invalid" type="submit" class="btn btn-primary mr-2">Salvar</button>
+            <button routerLink="" type="button" class="btn btn-secondary">Voltar</button>
+        </div>
+    </form>
+</section>

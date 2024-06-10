@@ -3,84 +3,84 @@
   "WorkspaceRootPath": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\vacancytechnologyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\vacancytechnologyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\vacancydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\vacancydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\vacancytechnologyvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\vacancytechnologyvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\candidatetechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\candidatetechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\vacancytechnologyvaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\vacancytechnologyvaluedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\technologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\technologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\finalreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\finalreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\ifinalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\ifinalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\candidatetechnology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\candidatetechnology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\candidatetechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\candidatetechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\vacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\vacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\repositories\\candidatetechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\repositories\\candidatetechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\ivacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\ivacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\repositories\\icandidatetechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\repositories\\icandidatetechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\models\\dtos\\vacancydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\models\\dtos\\vacancydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\candidatetechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\candidatetechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\vacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\vacancyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|c:\\workspace\\back\\csharp\\leanworktest\\exerciciotres\\back\\rhwebapi\\rhwebapi\\services\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FAB2FE-0F03-40C9-A14E-6CBC276D552E}|RhWebApi\\RhWebApi.csproj|solutionrelative:rhwebapi\\services\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,32 +90,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "RhWebApi\\appsettings.json",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\appsettings.json",
-              "RelativeToolTip": "RhWebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T17:23:54.661Z",
+              "DocumentIndex": 0,
+              "Title": "VacancyTechnologyValue.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\VacancyTechnologyValue.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Models\\VacancyTechnologyValue.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\VacancyTechnologyValue.cs",
+              "RelativeToolTip": "RhWebApi\\Models\\VacancyTechnologyValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:42:09.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "VacancyTechnologyValueDto.cs",
               "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyTechnologyValueDto.cs",
               "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\VacancyTechnologyValueDto.cs",
               "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyTechnologyValueDto.cs",
               "RelativeToolTip": "RhWebApi\\Models\\DTOs\\VacancyTechnologyValueDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:31:14.802Z",
+              "WhenOpened": "2024-06-10T02:37:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalReportController.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\FinalReportController.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Controllers\\FinalReportController.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\FinalReportController.cs",
+              "RelativeToolTip": "RhWebApi\\Controllers\\FinalReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:38:32.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFinalReport.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\IFinalReport.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Services\\IFinalReport.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\IFinalReport.cs",
+              "RelativeToolTip": "RhWebApi\\Services\\IFinalReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:36:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateTechnology.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\CandidateTechnology.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Models\\CandidateTechnology.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\CandidateTechnology.cs",
+              "RelativeToolTip": "RhWebApi\\Models\\CandidateTechnology.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:24:21.996Z",
               "EditorCaption": ""
             },
             {
@@ -126,179 +165,139 @@
               "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\CandidateTechnologyDto.cs",
               "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\CandidateTechnologyDto.cs",
               "RelativeToolTip": "RhWebApi\\Models\\DTOs\\CandidateTechnologyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:57.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CandidateDto.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\CandidateDto.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\CandidateDto.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\CandidateDto.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\DTOs\\CandidateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:55.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CandidateController.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\CandidateController.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Controllers\\CandidateController.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\CandidateController.cs",
-              "RelativeToolTip": "RhWebApi\\Controllers\\CandidateController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:53.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VacancyTechnologyValue.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\VacancyTechnologyValue.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\VacancyTechnologyValue.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\VacancyTechnologyValue.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\VacancyTechnologyValue.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:47.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vacancy.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Vacancy.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\Vacancy.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Vacancy.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\Vacancy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:42.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Candidate.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\Candidate.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Candidate.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\Candidate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:30:12.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Technology.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Technology.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\Technology.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Technology.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\Technology.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:26:43.704Z",
+              "WhenOpened": "2024-06-10T02:23:06.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TechnologyDto.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\TechnologyDto.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\TechnologyDto.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\TechnologyDto.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\DTOs\\TechnologyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Vacancy.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Models\\Vacancy.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Vacancy.cs",
+              "RelativeToolTip": "RhWebApi\\Models\\Vacancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:26:29.721Z",
+              "WhenOpened": "2024-06-10T02:08:28.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VacancyDto.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyDto.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\VacancyDto.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyDto.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\DTOs\\VacancyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "DocumentIndex": 11,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Models\\Candidate.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\Candidate.cs",
+              "RelativeToolTip": "RhWebApi\\Models\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:26:21.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Config\\AppDbContext.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\AppDbContext.cs",
-              "RelativeToolTip": "RhWebApi\\Config\\AppDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAD4vyIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:13:30.069Z",
+              "WhenOpened": "2024-06-10T02:04:34.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CandidateTechnology.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\CandidateTechnology.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Models\\CandidateTechnology.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\CandidateTechnology.cs",
-              "RelativeToolTip": "RhWebApi\\Models\\CandidateTechnology.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Program.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Program.cs",
+              "RelativeToolTip": "RhWebApi\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:12:52.775Z",
+              "WhenOpened": "2024-06-10T02:03:30.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CandidateTechnologyService.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\CandidateTechnologyService.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Services\\CandidateTechnologyService.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\CandidateTechnologyService.cs",
-              "RelativeToolTip": "RhWebApi\\Services\\CandidateTechnologyService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAawBgAAABDAAAA",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Config\\AppDbContext.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\AppDbContext.cs",
+              "RelativeToolTip": "RhWebApi\\Config\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:11:44.123Z",
+              "WhenOpened": "2024-06-10T01:41:55.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICandidateTechnologyRepository.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Repositories\\ICandidateTechnologyRepository.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Repositories\\ICandidateTechnologyRepository.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Repositories\\ICandidateTechnologyRepository.cs",
-              "RelativeToolTip": "RhWebApi\\Repositories\\ICandidateTechnologyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Config\\MappingProfile.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Config\\MappingProfile.cs",
+              "RelativeToolTip": "RhWebApi\\Config\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:09:16.473Z",
+              "WhenOpened": "2024-06-10T01:41:54.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\CandidateService.cs",
+              "RelativeToolTip": "RhWebApi\\Services\\CandidateService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwDUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:17:07.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CandidateTechnologyRepository.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Repositories\\CandidateTechnologyRepository.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Repositories\\CandidateTechnologyRepository.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Repositories\\CandidateTechnologyRepository.cs",
-              "RelativeToolTip": "RhWebApi\\Repositories\\CandidateTechnologyRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBMAAAAAAAAA",
+              "Title": "IVacancyService.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\IVacancyService.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Services\\IVacancyService.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\IVacancyService.cs",
+              "RelativeToolTip": "RhWebApi\\Services\\IVacancyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:09:02.277Z",
+              "WhenOpened": "2024-06-10T01:12:43.827Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VacancyDto.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyDto.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Models\\DTOs\\VacancyDto.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Models\\DTOs\\VacancyDto.cs",
+              "RelativeToolTip": "RhWebApi\\Models\\DTOs\\VacancyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:11:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITechnologyService.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\ITechnologyService.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Services\\ITechnologyService.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\ITechnologyService.cs",
+              "RelativeToolTip": "RhWebApi\\Services\\ITechnologyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:07:28.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TechnologyService.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\TechnologyService.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Services\\TechnologyService.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\TechnologyService.cs",
+              "RelativeToolTip": "RhWebApi\\Services\\TechnologyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:06:36.141Z"
             },
             {
               "$type": "Document",
@@ -308,49 +307,48 @@
               "RelativeDocumentMoniker": "RhWebApi\\Controllers\\VacancyController.cs",
               "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\VacancyController.cs",
               "RelativeToolTip": "RhWebApi\\Controllers\\VacancyController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAASwC8AAAAMAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAA9wC8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:06:41.059Z",
+              "WhenOpened": "2024-06-10T01:06:04.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Program.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Program.cs",
-              "RelativeToolTip": "RhWebApi\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADgvxAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:06:03.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VacancyTechnologyValueController.cs",
-              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\VacancyTechnologyValueController.cs",
-              "RelativeDocumentMoniker": "RhWebApi\\Controllers\\VacancyTechnologyValueController.cs",
-              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\VacancyTechnologyValueController.cs",
-              "RelativeToolTip": "RhWebApi\\Controllers\\VacancyTechnologyValueController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T17:25:57.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "VacancyService.cs",
               "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\VacancyService.cs",
               "RelativeDocumentMoniker": "RhWebApi\\Services\\VacancyService.cs",
               "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Services\\VacancyService.cs",
               "RelativeToolTip": "RhWebApi\\Services\\VacancyService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIAxwBsAAAAIAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA9wBwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:06:41.067Z",
+              "WhenOpened": "2024-06-10T01:06:04.792Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "RhWebApi\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:05:13.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechnologyController.cs",
+              "DocumentMoniker": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeDocumentMoniker": "RhWebApi\\Controllers\\TechnologyController.cs",
+              "ToolTip": "C:\\workspace\\Back\\Csharp\\LeanWorkTest\\ExercicioTres\\Back\\RhWebApi\\RhWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeToolTip": "RhWebApi\\Controllers\\TechnologyController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:49:49.825Z"
             }
           ]
         }

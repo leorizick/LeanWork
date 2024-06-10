@@ -6,7 +6,7 @@ namespace RhWebApi.Services
     {
         IEnumerable<VacancyDto> GetAll();
         VacancyDto GetById(int id);
-        void Add(Vacancy entity);
+        VacancyDto Add(VacancyDto entity);
         void Update(Vacancy entity);
         void Delete(int id);
     }

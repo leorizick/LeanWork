@@ -17,6 +17,11 @@ namespace RhWebApi.Repositories
             return _context.CandidateTechnologies.ToList();
         }
 
+        public IEnumerable<CandidateTechnology> GetAllByCandidateId(int id)
+        {
+            return _context.CandidateTechnologies.Where(c => c.Candidate.Id == id);
+        }
+
         public CandidateTechnology GetById(int id)
         {
             return _context.CandidateTechnologies.Find(id);
@@ -43,5 +48,7 @@ namespace RhWebApi.Repositories
                 _context.SaveChanges();
             }
         }
+
+
     }
 }

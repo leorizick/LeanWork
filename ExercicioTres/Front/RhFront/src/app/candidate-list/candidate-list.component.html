@@ -1,0 +1,23 @@
+<div class="header">
+    <h1>Candidatos</h1>
+    <div class="header-buttons">
+        <button class="btn btn-primary mr-2" routerLink="/CadCandidate"> Cadastrar Candidato </button>
+        <button class="btn btn-primary mr-2" routerLink="/CadTechnology"> Cadastrar Tecnologia </button>
+        <button class="btn btn-primary mr-2" routerLink="/CadVacancy"> Cadastrar Vaga </button>
+        <button class="btn btn-primary mr-2" routerLink="/Report"> Gerar Relatorio</button>
+    </div>
+</div>
+<ul>
+    <ng-container *ngFor="let candidate of candidateList">
+        <li>
+            <div class="info">
+                <label> Id: {{candidate.id}}</label>
+                <label> Login: {{candidate.name}}</label>
+                <ng-container *ngFor="let tech of candidate.technologies">
+                    <label> Tecnologia: {{tech.name}}</label>
+                </ng-container>
+                <label> Vaga: {{candidate.vacancy.name || 'Sem vaga definida'}} </label>
+            </div>
+        </li>
+    </ng-container>
+</ul>

@@ -42,11 +42,11 @@ namespace RhWebApi.Controllers
 
         [HttpPost]
         [SwaggerOperation(Summary = "Create a new Candidate", Description = "Create a new Candidate.")]
-        [SwaggerResponse(201, "Returns the newly created Candidate", typeof(Candidate))]
-        public ActionResult<Candidate> Create(Candidate Candidate)
+        [SwaggerResponse(201, "Returns the newly created Candidate", typeof(CandidateDto))]
+        public ActionResult<CandidateDto> Create(CandidateDto candidate)
         {
-            _service.Add(Candidate);
-            return CreatedAtAction(nameof(GetById), new { id = Candidate.Id }, Candidate);
+            _service.Add(candidate);
+            return CreatedAtAction(nameof(GetById), new { id = candidate.Id }, candidate);
         }
 
         [HttpPut("{id}")]
