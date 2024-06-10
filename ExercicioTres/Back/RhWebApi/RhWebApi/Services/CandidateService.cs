@@ -12,9 +12,10 @@ namespace RhWebApi.Services
         private readonly ITechnologyRepository _technologyRepository;
         private readonly IVacancyService _vacancyService;
         private readonly IVacancyRepository _vacancyRepository;
+        private readonly IVacancyTechnologyValueRepository _vacancyTechnologyValueRepository;
         private readonly IMapper _mapper;
 
-        public CandidateService(ICandidateRepository repository, IMapper mapper, ICandidateTechnologyRepository candidateTechnologyRepository, ICandidateTechnologyService candidateTechnologyService, ITechnologyService technologyService, IVacancyService vacancyService, IVacancyRepository vacancyRepository, ITechnologyRepository technologyRepository)
+        public CandidateService(ICandidateRepository repository, IMapper mapper, ICandidateTechnologyRepository candidateTechnologyRepository, ICandidateTechnologyService candidateTechnologyService, ITechnologyService technologyService, IVacancyService vacancyService, IVacancyRepository vacancyRepository, ITechnologyRepository technologyRepository, IVacancyTechnologyValueRepository vacancyTechnologyValueRepository)
         {
             _repository = repository;
             _mapper = mapper;
@@ -23,6 +24,7 @@ namespace RhWebApi.Services
             _vacancyService = vacancyService;
             _vacancyRepository = vacancyRepository;
             _technologyRepository = technologyRepository;
+            _vacancyTechnologyValueRepository = vacancyTechnologyValueRepository;
         }
 
         public IEnumerable<CandidateDto> GetAll()
@@ -60,6 +62,10 @@ namespace RhWebApi.Services
             {
                 var tech = _technologyRepository.GetById(technology.Id.Value);
                 _candidateTechnologyService.Add(new CandidateTechnology() { Candidate = candidate, Technology = tech });
+                if(candidate.VacancyId != null && tech.Id != null)
+                {
+                    _vacancyTechnologyValueRepository.Add(new VacancyTechnologyValue {Technology = tech, Vacancy = vacancy });
+                }
             }
         }
 

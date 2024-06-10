@@ -26,7 +26,7 @@ export class CadTechnologyComponent implements OnInit {
 
   onSubmit() {
     const technology: Technology = this.technologyFormGroup.getRawValue();
-    this.rhWebApi.postTechnology(technology).subscribe(res => console.log(res));
+    this.rhWebApi.postTechnology(technology).subscribe(res => this.router.navigateByUrl(''));
   }
 
 }
